@@ -15,7 +15,7 @@ body {
 	padding-right: 30px;
 	color: white;
 	position: fixed;
-	margin-left: 60px;
+	margin-left: 45px;
 	box-shadow: 1px 5px 36px 1px #30726a;
 }
 
@@ -31,7 +31,7 @@ body {
 
 .text-area {
 	margin: auto;
-	margin-top: 65px;
+	margin-top: 45px;
   	width: 70%;
 	text-shadow: 3px 3px 36px #ffffff;
 	padding: 10px;
