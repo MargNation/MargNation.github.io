@@ -1,2 +1,2 @@
 # MargNation.github.io
-Personal GitHub page
+[Personal GitHub page](margnation.github.io)
